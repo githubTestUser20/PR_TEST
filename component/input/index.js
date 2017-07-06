@@ -1,5 +1,5 @@
-function fancyComponent1() {
-    return 1 +1;
+function fancyComponentOne() {
+    return (1 + 1 ) * 5
 }
 
 module.exports = fancyComponent1;
