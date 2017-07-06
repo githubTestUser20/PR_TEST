@@ -1,4 +1,4 @@
-function fancyComponentOne() {
+function shortName() {
     return (1 + 1 ) * 5
 }
 
