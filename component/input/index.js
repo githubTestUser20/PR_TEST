@@ -1,8 +1,8 @@
 function shortName() {
-    return (IDoSomethingSuperFancyHere(1, 4)) * 5 * 5;
+    return (iDoSomethingSuperFancyHere(1, 4)) * 5 * 5;
 }
 
-function IDoSomethingSuperFancyHere(x, y) {
+function iDoSomethingSuperFancyHere(x, y) {
     return (y + x ) * 5;
 }
 
