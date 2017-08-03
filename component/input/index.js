@@ -6,4 +6,8 @@ function iDoSomethingSuperFancyHere (totalA, totalB) {
   return (totalA + totalB) * 5
 }
 
+function newMehod1 (totalA, totalB) {
+  return false;
+}
+
 module.exports = fancyComponent1
