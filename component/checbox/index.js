@@ -10,4 +10,9 @@ function addMetod () {
   return '<debug/>'
 }
 
+function addMetod2 () {
+  return '<debug/>'
+}
+
+
 module.exports = checbox
