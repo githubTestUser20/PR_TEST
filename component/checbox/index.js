@@ -14,5 +14,4 @@ function renderHello () {
   return '<helloWorld/>'
 }
 
-
 module.exports = checbox
