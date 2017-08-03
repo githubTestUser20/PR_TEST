@@ -11,7 +11,7 @@ function addMetod () {
 }
 
 function renderHello () {
-  return '<hello/>'
+  return '<helloWorld/>'
 }
 
 
